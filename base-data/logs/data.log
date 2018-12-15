@@ -1,0 +1,652 @@
+2018-12-13 16:15:26,188[SpringApplication.java:597][INFO]:The following profiles are active: dev
+2018-12-13 16:15:28,353[DirectJDKLog.java:179][INFO]:Starting service [Tomcat]
+2018-12-13 16:15:28,355[DirectJDKLog.java:179][INFO]:Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-12-13 16:15:28,477[DirectJDKLog.java:179][INFO]:Initializing Spring embedded WebApplicationContext
+2018-12-13 16:15:29,806[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-13 16:15:32,473[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-13 16:15:32,479[DirectJDKLog.java:179][INFO]:jolokia: jolokia:type=Config is already registered. Adding it with jolokia:type=Config,uuid=436f3690-3abd-4938-b93a-dc411e2207b6, but you should revise your setup in order to either use a qualifier or ensure, that only a single agent gets registered (otherwise history functionality might not work)
+2018-12-13 16:15:32,479[DirectJDKLog.java:179][INFO]:jolokia: Cannot register (legacy) MBean handler for config store with name jmx4perl:type=Config since it already exists. This is the case if another agent has been already started within the same JVM. The registration is skipped.
+2018-12-13 16:15:32,480[DirectJDKLog.java:179][INFO]:jolokia: Jolokia Discovery MBean registration is skipped because there is already one registered.
+2018-12-13 16:15:34,021[DirectJDKLog.java:179][INFO]:Initializing ProtocolHandler ["http-nio-8006"]
+2018-12-13 16:15:34,058[DirectJDKLog.java:179][INFO]:Starting ProtocolHandler ["http-nio-8006"]
+2018-12-13 16:15:34,087[DirectJDKLog.java:179][INFO]:Using a shared selector for servlet write/read
+2018-12-13 16:15:34,127[StartupInfoLogger.java:57][INFO]:Started Application in 9.588 seconds (JVM running for 15.397)
+2018-12-13 16:50:44,851[SpringApplication.java:597][INFO]:The following profiles are active: dev
+2018-12-13 16:50:49,099[DirectJDKLog.java:179][INFO]:Starting service [Tomcat]
+2018-12-13 16:50:49,100[DirectJDKLog.java:179][INFO]:Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-12-13 16:50:49,431[DirectJDKLog.java:179][INFO]:Initializing Spring embedded WebApplicationContext
+2018-12-13 16:50:52,299[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-13 16:50:58,538[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-13 16:50:58,542[DirectJDKLog.java:179][INFO]:jolokia: jolokia:type=Config is already registered. Adding it with jolokia:type=Config,uuid=1e1bd97f-dff7-4b71-b059-e20abdbfaa55, but you should revise your setup in order to either use a qualifier or ensure, that only a single agent gets registered (otherwise history functionality might not work)
+2018-12-13 16:50:58,543[DirectJDKLog.java:179][INFO]:jolokia: Cannot register (legacy) MBean handler for config store with name jmx4perl:type=Config since it already exists. This is the case if another agent has been already started within the same JVM. The registration is skipped.
+2018-12-13 16:50:58,543[DirectJDKLog.java:179][INFO]:jolokia: Jolokia Discovery MBean registration is skipped because there is already one registered.
+2018-12-13 16:51:00,126[DirectJDKLog.java:179][INFO]:Initializing ProtocolHandler ["http-nio-8006"]
+2018-12-13 16:51:00,145[DirectJDKLog.java:179][INFO]:Starting ProtocolHandler ["http-nio-8006"]
+2018-12-13 16:51:00,226[DirectJDKLog.java:179][INFO]:Using a shared selector for servlet write/read
+2018-12-13 16:51:00,297[StartupInfoLogger.java:57][INFO]:Started Application in 18.248 seconds (JVM running for 32.073)
+2018-12-14 10:14:58,362[SpringApplication.java:597][INFO]:The following profiles are active: dev
+2018-12-14 10:15:07,006[DirectJDKLog.java:179][INFO]:Starting service [Tomcat]
+2018-12-14 10:15:07,008[DirectJDKLog.java:179][INFO]:Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-12-14 10:15:08,268[DirectJDKLog.java:179][INFO]:Initializing Spring embedded WebApplicationContext
+2018-12-14 10:15:16,392[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-14 10:15:38,504[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-14 10:15:38,510[DirectJDKLog.java:179][INFO]:jolokia: jolokia:type=Config is already registered. Adding it with jolokia:type=Config,uuid=43046000-4ed1-4def-bad0-4480fa816ae3, but you should revise your setup in order to either use a qualifier or ensure, that only a single agent gets registered (otherwise history functionality might not work)
+2018-12-14 10:15:38,512[DirectJDKLog.java:179][INFO]:jolokia: Cannot register (legacy) MBean handler for config store with name jmx4perl:type=Config since it already exists. This is the case if another agent has been already started within the same JVM. The registration is skipped.
+2018-12-14 10:15:38,512[DirectJDKLog.java:179][INFO]:jolokia: Jolokia Discovery MBean registration is skipped because there is already one registered.
+2018-12-14 10:15:44,020[DirectJDKLog.java:179][INFO]:Initializing ProtocolHandler ["http-nio-8006"]
+2018-12-14 10:15:44,039[DirectJDKLog.java:179][INFO]:Starting ProtocolHandler ["http-nio-8006"]
+2018-12-14 10:15:44,050[DirectJDKLog.java:179][INFO]:Using a shared selector for servlet write/read
+2018-12-14 10:15:44,262[StartupInfoLogger.java:57][INFO]:Started Application in 52.36 seconds (JVM running for 78.031)
+2018-12-14 14:25:47,188[SpringApplication.java:597][INFO]:The following profiles are active: dev
+2018-12-14 14:25:53,909[DirectJDKLog.java:179][INFO]:Starting service [Tomcat]
+2018-12-14 14:25:53,910[DirectJDKLog.java:179][INFO]:Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-12-14 14:25:54,195[DirectJDKLog.java:179][INFO]:Initializing Spring embedded WebApplicationContext
+2018-12-14 14:25:59,882[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-14 14:26:13,836[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-14 14:26:13,897[DirectJDKLog.java:179][INFO]:jolokia: jolokia:type=Config is already registered. Adding it with jolokia:type=Config,uuid=30e5b55f-c54d-4d74-991f-ac7892b25803, but you should revise your setup in order to either use a qualifier or ensure, that only a single agent gets registered (otherwise history functionality might not work)
+2018-12-14 14:26:13,898[DirectJDKLog.java:179][INFO]:jolokia: Cannot register (legacy) MBean handler for config store with name jmx4perl:type=Config since it already exists. This is the case if another agent has been already started within the same JVM. The registration is skipped.
+2018-12-14 14:26:13,900[DirectJDKLog.java:179][INFO]:jolokia: Jolokia Discovery MBean registration is skipped because there is already one registered.
+2018-12-14 14:26:55,319[SpringApplication.java:597][INFO]:The following profiles are active: dev
+2018-12-14 14:27:02,906[DirectJDKLog.java:179][INFO]:Starting service [Tomcat]
+2018-12-14 14:27:02,909[DirectJDKLog.java:179][INFO]:Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-12-14 14:27:03,325[DirectJDKLog.java:179][INFO]:Initializing Spring embedded WebApplicationContext
+2018-12-14 14:27:07,503[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-14 14:27:21,144[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-14 14:27:21,165[DirectJDKLog.java:179][INFO]:jolokia: jolokia:type=Config is already registered. Adding it with jolokia:type=Config,uuid=e61e38bb-8ece-4635-8a44-e38cfd0dc59c, but you should revise your setup in order to either use a qualifier or ensure, that only a single agent gets registered (otherwise history functionality might not work)
+2018-12-14 14:27:21,167[DirectJDKLog.java:179][INFO]:jolokia: Cannot register (legacy) MBean handler for config store with name jmx4perl:type=Config since it already exists. This is the case if another agent has been already started within the same JVM. The registration is skipped.
+2018-12-14 14:27:21,202[DirectJDKLog.java:179][INFO]:jolokia: Jolokia Discovery MBean registration is skipped because there is already one registered.
+2018-12-14 14:27:25,891[DirectJDKLog.java:179][INFO]:Initializing ProtocolHandler ["http-nio-8006"]
+2018-12-14 14:27:25,924[DirectJDKLog.java:179][INFO]:Starting ProtocolHandler ["http-nio-8006"]
+2018-12-14 14:27:25,936[DirectJDKLog.java:179][INFO]:Using a shared selector for servlet write/read
+2018-12-14 14:27:25,976[StartupInfoLogger.java:57][INFO]:Started Application in 37.184 seconds (JVM running for 58.845)
+2018-12-14 14:27:27,448[DirectJDKLog.java:181][INFO]:Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:422)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:683)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+2018-12-14 14:41:11,770[SpringApplication.java:597][INFO]:The following profiles are active: dev
+2018-12-14 14:41:13,506[DirectJDKLog.java:179][INFO]:Starting service [Tomcat]
+2018-12-14 14:41:13,507[DirectJDKLog.java:179][INFO]:Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-12-14 14:41:13,610[DirectJDKLog.java:179][INFO]:Initializing Spring embedded WebApplicationContext
+2018-12-14 14:41:14,741[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-14 14:41:16,606[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-14 14:41:16,610[DirectJDKLog.java:179][INFO]:jolokia: jolokia:type=Config is already registered. Adding it with jolokia:type=Config,uuid=1cbb038a-c844-49dc-9fe0-6cd54c693905, but you should revise your setup in order to either use a qualifier or ensure, that only a single agent gets registered (otherwise history functionality might not work)
+2018-12-14 14:41:16,611[DirectJDKLog.java:179][INFO]:jolokia: Cannot register (legacy) MBean handler for config store with name jmx4perl:type=Config since it already exists. This is the case if another agent has been already started within the same JVM. The registration is skipped.
+2018-12-14 14:41:16,611[DirectJDKLog.java:179][INFO]:jolokia: Jolokia Discovery MBean registration is skipped because there is already one registered.
+2018-12-14 14:41:18,052[DirectJDKLog.java:179][INFO]:Initializing ProtocolHandler ["http-nio-8006"]
+2018-12-14 14:41:18,071[DirectJDKLog.java:179][INFO]:Starting ProtocolHandler ["http-nio-8006"]
+2018-12-14 14:41:18,081[DirectJDKLog.java:179][INFO]:Using a shared selector for servlet write/read
+2018-12-14 14:41:18,109[StartupInfoLogger.java:57][INFO]:Started Application in 7.638 seconds (JVM running for 12.585)
+2018-12-14 14:41:20,143[DirectJDKLog.java:181][INFO]:Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:422)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:683)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+2018-12-14 14:43:26,193[SpringApplication.java:597][INFO]:The following profiles are active: dev
+2018-12-14 14:43:28,330[DirectJDKLog.java:179][INFO]:Starting service [Tomcat]
+2018-12-14 14:43:28,331[DirectJDKLog.java:179][INFO]:Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-12-14 14:43:28,510[DirectJDKLog.java:179][INFO]:Initializing Spring embedded WebApplicationContext
+2018-12-14 14:43:31,284[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-14 14:43:36,187[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-14 14:43:36,191[DirectJDKLog.java:179][INFO]:jolokia: jolokia:type=Config is already registered. Adding it with jolokia:type=Config,uuid=c10dd7a3-3470-497d-a674-831646f5128a, but you should revise your setup in order to either use a qualifier or ensure, that only a single agent gets registered (otherwise history functionality might not work)
+2018-12-14 14:43:36,191[DirectJDKLog.java:179][INFO]:jolokia: Cannot register (legacy) MBean handler for config store with name jmx4perl:type=Config since it already exists. This is the case if another agent has been already started within the same JVM. The registration is skipped.
+2018-12-14 14:43:36,191[DirectJDKLog.java:179][INFO]:jolokia: Jolokia Discovery MBean registration is skipped because there is already one registered.
+2018-12-14 14:43:37,401[DirectJDKLog.java:179][INFO]:Initializing ProtocolHandler ["http-nio-8006"]
+2018-12-14 14:43:37,425[DirectJDKLog.java:179][INFO]:Starting ProtocolHandler ["http-nio-8006"]
+2018-12-14 14:43:37,454[DirectJDKLog.java:179][INFO]:Using a shared selector for servlet write/read
+2018-12-14 14:43:37,512[StartupInfoLogger.java:57][INFO]:Started Application in 12.883 seconds (JVM running for 21.278)
+2018-12-14 14:45:35,367[SpringApplication.java:597][INFO]:The following profiles are active: dev
+2018-12-14 14:45:42,287[DirectJDKLog.java:179][INFO]:Starting service [Tomcat]
+2018-12-14 14:45:42,290[DirectJDKLog.java:179][INFO]:Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-12-14 14:45:42,949[DirectJDKLog.java:179][INFO]:Initializing Spring embedded WebApplicationContext
+2018-12-14 14:45:50,982[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-14 14:46:02,829[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-14 14:46:02,833[DirectJDKLog.java:179][INFO]:jolokia: jolokia:type=Config is already registered. Adding it with jolokia:type=Config,uuid=cfa32322-60ba-47ce-af52-d21864782110, but you should revise your setup in order to either use a qualifier or ensure, that only a single agent gets registered (otherwise history functionality might not work)
+2018-12-14 14:46:02,834[DirectJDKLog.java:179][INFO]:jolokia: Cannot register (legacy) MBean handler for config store with name jmx4perl:type=Config since it already exists. This is the case if another agent has been already started within the same JVM. The registration is skipped.
+2018-12-14 14:46:02,834[DirectJDKLog.java:179][INFO]:jolokia: Jolokia Discovery MBean registration is skipped because there is already one registered.
+2018-12-14 14:46:06,572[DirectJDKLog.java:179][INFO]:Initializing ProtocolHandler ["http-nio-8006"]
+2018-12-14 14:46:06,648[DirectJDKLog.java:179][INFO]:Starting ProtocolHandler ["http-nio-8006"]
+2018-12-14 14:46:06,667[DirectJDKLog.java:179][INFO]:Using a shared selector for servlet write/read
+2018-12-14 14:46:06,881[StartupInfoLogger.java:57][INFO]:Started Application in 37.059 seconds (JVM running for 57.219)
+2018-12-14 14:47:20,146[DirectJDKLog.java:181][INFO]:Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:422)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:683)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+2018-12-14 14:47:20,165[DirectJDKLog.java:181][INFO]:Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:422)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:683)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+2018-12-14 14:50:27,452[SpringApplication.java:597][INFO]:The following profiles are active: dev
+2018-12-14 14:50:37,015[DirectJDKLog.java:179][INFO]:Starting service [Tomcat]
+2018-12-14 14:50:37,016[DirectJDKLog.java:179][INFO]:Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-12-14 14:50:38,577[DirectJDKLog.java:179][INFO]:Initializing Spring embedded WebApplicationContext
+2018-12-14 14:50:45,167[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-14 14:50:59,189[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-14 14:50:59,193[DirectJDKLog.java:179][INFO]:jolokia: jolokia:type=Config is already registered. Adding it with jolokia:type=Config,uuid=88b92d06-7185-4d94-83ac-24ac03a8b9d3, but you should revise your setup in order to either use a qualifier or ensure, that only a single agent gets registered (otherwise history functionality might not work)
+2018-12-14 14:50:59,197[DirectJDKLog.java:179][INFO]:jolokia: Cannot register (legacy) MBean handler for config store with name jmx4perl:type=Config since it already exists. This is the case if another agent has been already started within the same JVM. The registration is skipped.
+2018-12-14 14:50:59,198[DirectJDKLog.java:179][INFO]:jolokia: Jolokia Discovery MBean registration is skipped because there is already one registered.
+2018-12-14 14:51:02,331[DirectJDKLog.java:179][INFO]:Initializing ProtocolHandler ["http-nio-8006"]
+2018-12-14 14:51:02,355[DirectJDKLog.java:179][INFO]:Starting ProtocolHandler ["http-nio-8006"]
+2018-12-14 14:51:02,377[DirectJDKLog.java:179][INFO]:Using a shared selector for servlet write/read
+2018-12-14 14:51:02,712[StartupInfoLogger.java:57][INFO]:Started Application in 39.523 seconds (JVM running for 60.735)
+2018-12-14 14:51:20,140[DirectJDKLog.java:181][INFO]:Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:422)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:683)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+2018-12-14 14:51:20,159[DirectJDKLog.java:181][INFO]:Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:422)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:683)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+2018-12-14 14:51:43,311[SpringApplication.java:597][INFO]:The following profiles are active: dev
+2018-12-14 14:51:45,395[DirectJDKLog.java:179][INFO]:Starting service [Tomcat]
+2018-12-14 14:51:45,396[DirectJDKLog.java:179][INFO]:Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-12-14 14:51:45,530[DirectJDKLog.java:179][INFO]:Initializing Spring embedded WebApplicationContext
+2018-12-14 14:51:47,375[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-14 14:51:51,601[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-14 14:51:51,624[DirectJDKLog.java:179][INFO]:jolokia: jolokia:type=Config is already registered. Adding it with jolokia:type=Config,uuid=1c6afc7b-4f14-4bf8-bcfc-1207af8a3c88, but you should revise your setup in order to either use a qualifier or ensure, that only a single agent gets registered (otherwise history functionality might not work)
+2018-12-14 14:51:51,625[DirectJDKLog.java:179][INFO]:jolokia: Cannot register (legacy) MBean handler for config store with name jmx4perl:type=Config since it already exists. This is the case if another agent has been already started within the same JVM. The registration is skipped.
+2018-12-14 14:51:51,625[DirectJDKLog.java:179][INFO]:jolokia: Jolokia Discovery MBean registration is skipped because there is already one registered.
+2018-12-14 14:51:54,042[DirectJDKLog.java:179][INFO]:Initializing ProtocolHandler ["http-nio-8006"]
+2018-12-14 14:51:54,072[DirectJDKLog.java:179][INFO]:Starting ProtocolHandler ["http-nio-8006"]
+2018-12-14 14:51:54,088[DirectJDKLog.java:179][INFO]:Using a shared selector for servlet write/read
+2018-12-14 14:51:54,140[StartupInfoLogger.java:57][INFO]:Started Application in 12.309 seconds (JVM running for 20.913)
+2018-12-14 14:52:28,211[DirectJDKLog.java:179][INFO]:Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-12-14 14:52:28,614[DirectJDKLog.java:181][ERROR]:Unable to create initial connections of pool.
+java.sql.SQLException: Access denied for user 'root'@'192.168.1.138' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:964)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3973)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3909)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:873)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1710)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1226)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2198)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2229)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2024)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:779)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:425)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:389)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:330)
+	at org.apache.tomcat.jdbc.pool.PooledConnection.connectUsingDriver(PooledConnection.java:310)
+	at org.apache.tomcat.jdbc.pool.PooledConnection.connect(PooledConnection.java:203)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.createConnection(ConnectionPool.java:735)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:667)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.init(ConnectionPool.java:482)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.<init>(ConnectionPool.java:154)
+	at org.apache.tomcat.jdbc.pool.DataSourceProxy.pCreatePool(DataSourceProxy.java:118)
+	at org.apache.tomcat.jdbc.pool.DataSourceProxy.createPool(DataSourceProxy.java:107)
+	at org.apache.tomcat.jdbc.pool.DataSourceProxy.getConnection(DataSourceProxy.java:131)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:77)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:619)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:684)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:716)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:726)
+	at org.springframework.jdbc.core.JdbcTemplate.queryForObject(JdbcTemplate.java:794)
+	at org.springframework.jdbc.core.JdbcTemplate.queryForObject(JdbcTemplate.java:813)
+	at ali.keep.com.common.BaseDao.queryPage(BaseDao.java:34)
+	at ali.keep.com.system.dept.DeptDao.queryPage(DeptDao.java:87)
+	at ali.keep.com.system.dept.DeptDao$$FastClassBySpringCGLIB$$b014709d.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:204)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:738)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:157)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:136)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:673)
+	at ali.keep.com.system.dept.DeptDao$$EnhancerBySpringCGLIB$$aa614f9c.queryPage(<generated>)
+	at ali.keep.com.system.dept.DeptService.queryPage(DeptService.java:55)
+	at ali.keep.com.system.dept.DeptService$$FastClassBySpringCGLIB$$d9b33640.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:204)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:669)
+	at ali.keep.com.system.dept.DeptService$$EnhancerBySpringCGLIB$$74cf3fec.queryPage(<generated>)
+	at ali.keep.com.system.dept.DeptController.queryPage(DeptController.java:59)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:967)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:901)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:872)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:661)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.boot.web.filter.ApplicationContextHeaderFilter.doFilterInternal(ApplicationContextHeaderFilter.java:55)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.boot.actuate.trace.WebRequestTraceFilter.doFilterInternal(WebRequestTraceFilter.java:110)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:105)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.boot.actuate.autoconfigure.MetricsFilter.doFilterInternal(MetricsFilter.java:106)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:799)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+2018-12-14 14:52:28,628[DirectJDKLog.java:181][ERROR]:Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: Access denied for user 'root'@'192.168.1.138' (using password: YES)] with root cause
+java.sql.SQLException: Access denied for user 'root'@'192.168.1.138' (using password: YES)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:964)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3973)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3909)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:873)
+	at com.mysql.jdbc.MysqlIO.proceedHandshakeWithPluggableAuthentication(MysqlIO.java:1710)
+	at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:1226)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2198)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2229)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2024)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:779)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:425)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:389)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:330)
+	at org.apache.tomcat.jdbc.pool.PooledConnection.connectUsingDriver(PooledConnection.java:310)
+	at org.apache.tomcat.jdbc.pool.PooledConnection.connect(PooledConnection.java:203)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.createConnection(ConnectionPool.java:735)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:667)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.init(ConnectionPool.java:482)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.<init>(ConnectionPool.java:154)
+	at org.apache.tomcat.jdbc.pool.DataSourceProxy.pCreatePool(DataSourceProxy.java:118)
+	at org.apache.tomcat.jdbc.pool.DataSourceProxy.createPool(DataSourceProxy.java:107)
+	at org.apache.tomcat.jdbc.pool.DataSourceProxy.getConnection(DataSourceProxy.java:131)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:77)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:619)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:684)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:716)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:726)
+	at org.springframework.jdbc.core.JdbcTemplate.queryForObject(JdbcTemplate.java:794)
+	at org.springframework.jdbc.core.JdbcTemplate.queryForObject(JdbcTemplate.java:813)
+	at ali.keep.com.common.BaseDao.queryPage(BaseDao.java:34)
+	at ali.keep.com.system.dept.DeptDao.queryPage(DeptDao.java:87)
+	at ali.keep.com.system.dept.DeptDao$$FastClassBySpringCGLIB$$b014709d.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:204)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:738)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:157)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:136)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:673)
+	at ali.keep.com.system.dept.DeptDao$$EnhancerBySpringCGLIB$$aa614f9c.queryPage(<generated>)
+	at ali.keep.com.system.dept.DeptService.queryPage(DeptService.java:55)
+	at ali.keep.com.system.dept.DeptService$$FastClassBySpringCGLIB$$d9b33640.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:204)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:669)
+	at ali.keep.com.system.dept.DeptService$$EnhancerBySpringCGLIB$$74cf3fec.queryPage(<generated>)
+	at ali.keep.com.system.dept.DeptController.queryPage(DeptController.java:59)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:967)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:901)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:872)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:661)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.boot.web.filter.ApplicationContextHeaderFilter.doFilterInternal(ApplicationContextHeaderFilter.java:55)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.boot.actuate.trace.WebRequestTraceFilter.doFilterInternal(WebRequestTraceFilter.java:110)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:105)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.boot.actuate.autoconfigure.MetricsFilter.doFilterInternal(MetricsFilter.java:106)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:799)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+2018-12-14 14:53:23,494[SpringApplication.java:597][INFO]:The following profiles are active: dev
+2018-12-14 14:53:25,677[DirectJDKLog.java:179][INFO]:Starting service [Tomcat]
+2018-12-14 14:53:25,678[DirectJDKLog.java:179][INFO]:Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-12-14 14:53:25,846[DirectJDKLog.java:179][INFO]:Initializing Spring embedded WebApplicationContext
+2018-12-14 14:53:27,646[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-14 14:53:31,472[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-14 14:53:31,478[DirectJDKLog.java:179][INFO]:jolokia: jolokia:type=Config is already registered. Adding it with jolokia:type=Config,uuid=68d74d61-998f-45c2-ba3a-28ef4421f77f, but you should revise your setup in order to either use a qualifier or ensure, that only a single agent gets registered (otherwise history functionality might not work)
+2018-12-14 14:53:31,478[DirectJDKLog.java:179][INFO]:jolokia: Cannot register (legacy) MBean handler for config store with name jmx4perl:type=Config since it already exists. This is the case if another agent has been already started within the same JVM. The registration is skipped.
+2018-12-14 14:53:31,479[DirectJDKLog.java:179][INFO]:jolokia: Jolokia Discovery MBean registration is skipped because there is already one registered.
+2018-12-14 14:53:33,733[DirectJDKLog.java:179][INFO]:Initializing ProtocolHandler ["http-nio-8006"]
+2018-12-14 14:53:33,783[DirectJDKLog.java:179][INFO]:Starting ProtocolHandler ["http-nio-8006"]
+2018-12-14 14:53:33,821[DirectJDKLog.java:179][INFO]:Using a shared selector for servlet write/read
+2018-12-14 14:53:33,867[StartupInfoLogger.java:57][INFO]:Started Application in 11.881 seconds (JVM running for 19.825)
+2018-12-14 14:55:09,022[DirectJDKLog.java:179][INFO]:Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-12-14 14:55:20,104[DirectJDKLog.java:181][INFO]:Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:422)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:683)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+2018-12-14 15:34:03,920[SpringApplication.java:597][INFO]:The following profiles are active: dev
+2018-12-14 15:34:09,216[DirectJDKLog.java:179][INFO]:Starting service [Tomcat]
+2018-12-14 15:34:09,217[DirectJDKLog.java:179][INFO]:Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-12-14 15:34:10,040[DirectJDKLog.java:179][INFO]:Initializing Spring embedded WebApplicationContext
+2018-12-14 15:34:15,672[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-14 15:34:25,875[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-14 15:34:26,477[DirectJDKLog.java:179][INFO]:jolokia: jolokia:type=Config is already registered. Adding it with jolokia:type=Config,uuid=98f0e820-32eb-4cc0-b6bc-4a4546b06323, but you should revise your setup in order to either use a qualifier or ensure, that only a single agent gets registered (otherwise history functionality might not work)
+2018-12-14 15:34:26,478[DirectJDKLog.java:179][INFO]:jolokia: Cannot register (legacy) MBean handler for config store with name jmx4perl:type=Config since it already exists. This is the case if another agent has been already started within the same JVM. The registration is skipped.
+2018-12-14 15:34:26,478[DirectJDKLog.java:179][INFO]:jolokia: Jolokia Discovery MBean registration is skipped because there is already one registered.
+2018-12-14 15:34:32,350[DirectJDKLog.java:179][INFO]:Initializing ProtocolHandler ["http-nio-8006"]
+2018-12-14 15:34:32,366[DirectJDKLog.java:179][INFO]:Starting ProtocolHandler ["http-nio-8006"]
+2018-12-14 15:34:32,377[DirectJDKLog.java:179][INFO]:Using a shared selector for servlet write/read
+2018-12-14 15:34:32,441[StartupInfoLogger.java:57][INFO]:Started Application in 32.065 seconds (JVM running for 54.835)
+2018-12-14 15:37:53,651[DirectJDKLog.java:179][INFO]:Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-12-14 15:59:24,278[DirectJDKLog.java:181][ERROR]:Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at ali.keep.com.common.BaseDao.queryPage(BaseDao.java:37)
+	at ali.keep.com.system.func.FuncDao.queryPage(FuncDao.java:91)
+	at ali.keep.com.system.func.FuncDao$$FastClassBySpringCGLIB$$d19abd3d.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:204)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:738)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:157)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:136)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:673)
+	at ali.keep.com.system.func.FuncDao$$EnhancerBySpringCGLIB$$c63d890f.queryPage(<generated>)
+	at ali.keep.com.system.func.FuncService.queryPage(FuncService.java:55)
+	at ali.keep.com.system.func.FuncService$$FastClassBySpringCGLIB$$232e0.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:204)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:669)
+	at ali.keep.com.system.func.FuncService$$EnhancerBySpringCGLIB$$dbd0759a.queryPage(<generated>)
+	at ali.keep.com.system.func.FuncController.queryPage(FuncController.java:56)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:967)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:901)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:872)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:661)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.boot.web.filter.ApplicationContextHeaderFilter.doFilterInternal(ApplicationContextHeaderFilter.java:55)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.boot.actuate.trace.WebRequestTraceFilter.doFilterInternal(WebRequestTraceFilter.java:110)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:105)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.boot.actuate.autoconfigure.MetricsFilter.doFilterInternal(MetricsFilter.java:106)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:799)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+2018-12-14 16:01:10,746[DirectJDKLog.java:181][ERROR]:Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at ali.keep.com.common.BaseDao.queryPage(BaseDao.java:37)
+	at ali.keep.com.system.func.FuncDao.queryPage(FuncDao.java:91)
+	at ali.keep.com.system.func.FuncDao$$FastClassBySpringCGLIB$$d19abd3d.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:204)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:738)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:157)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:136)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:673)
+	at ali.keep.com.system.func.FuncDao$$EnhancerBySpringCGLIB$$c63d890f.queryPage(<generated>)
+	at ali.keep.com.system.func.FuncService.queryPage(FuncService.java:55)
+	at ali.keep.com.system.func.FuncService$$FastClassBySpringCGLIB$$232e0.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:204)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:669)
+	at ali.keep.com.system.func.FuncService$$EnhancerBySpringCGLIB$$dbd0759a.queryPage(<generated>)
+	at ali.keep.com.system.func.FuncController.queryPage(FuncController.java:56)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:967)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:901)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:872)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:661)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.boot.web.filter.ApplicationContextHeaderFilter.doFilterInternal(ApplicationContextHeaderFilter.java:55)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.boot.actuate.trace.WebRequestTraceFilter.doFilterInternal(WebRequestTraceFilter.java:110)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:105)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.boot.actuate.autoconfigure.MetricsFilter.doFilterInternal(MetricsFilter.java:106)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:799)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)

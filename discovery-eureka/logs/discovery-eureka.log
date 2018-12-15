@@ -1,0 +1,219 @@
+2018-12-13 16:07:05,051[SpringApplication.java:597][INFO]:The following profiles are active: dev
+2018-12-13 16:07:09,828[DirectJDKLog.java:179][INFO]:Starting service [Tomcat]
+2018-12-13 16:07:09,830[DirectJDKLog.java:179][INFO]:Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-12-13 16:07:10,022[DirectJDKLog.java:179][INFO]:Initializing Spring embedded WebApplicationContext
+2018-12-13 16:07:12,803[WebApplicationImpl.java:815][INFO]:Initiating Jersey application, version 'Jersey: 1.19.1 03/11/2016 02:08 PM'
+2018-12-13 16:07:16,626[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-13 16:07:20,760[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-13 16:07:20,765[DirectJDKLog.java:179][INFO]:jolokia: jolokia:type=Config is already registered. Adding it with jolokia:type=Config,uuid=ebcbe4c0-fd1d-46f3-bbf0-a0371b4c9de2, but you should revise your setup in order to either use a qualifier or ensure, that only a single agent gets registered (otherwise history functionality might not work)
+2018-12-13 16:07:20,766[DirectJDKLog.java:179][INFO]:jolokia: Cannot register (legacy) MBean handler for config store with name jmx4perl:type=Config since it already exists. This is the case if another agent has been already started within the same JVM. The registration is skipped.
+2018-12-13 16:07:20,766[DirectJDKLog.java:179][INFO]:jolokia: Jolokia Discovery MBean registration is skipped because there is already one registered.
+2018-12-13 16:07:20,896[DirectJDKLog.java:179][INFO]:Initializing ProtocolHandler ["http-nio-8761"]
+2018-12-13 16:07:20,911[DirectJDKLog.java:179][INFO]:Starting ProtocolHandler ["http-nio-8761"]
+2018-12-13 16:07:20,930[DirectJDKLog.java:179][INFO]:Using a shared selector for servlet write/read
+2018-12-13 16:07:20,966[StartupInfoLogger.java:57][INFO]:Started Application in 18.42 seconds (JVM running for 24.454)
+2018-12-13 16:15:33,658[DirectJDKLog.java:179][INFO]:Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-12-13 16:50:23,941[SpringApplication.java:597][INFO]:The following profiles are active: dev
+2018-12-13 16:50:25,796[DirectJDKLog.java:179][INFO]:Starting service [Tomcat]
+2018-12-13 16:50:25,798[DirectJDKLog.java:179][INFO]:Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-12-13 16:50:25,977[DirectJDKLog.java:179][INFO]:Initializing Spring embedded WebApplicationContext
+2018-12-13 16:50:26,930[WebApplicationImpl.java:815][INFO]:Initiating Jersey application, version 'Jersey: 1.19.1 03/11/2016 02:08 PM'
+2018-12-13 16:50:28,207[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-13 16:50:37,163[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-13 16:50:37,264[DirectJDKLog.java:179][INFO]:jolokia: jolokia:type=Config is already registered. Adding it with jolokia:type=Config,uuid=2dbb4810-1be4-41d2-837e-5ab9c052638f, but you should revise your setup in order to either use a qualifier or ensure, that only a single agent gets registered (otherwise history functionality might not work)
+2018-12-13 16:50:37,265[DirectJDKLog.java:179][INFO]:jolokia: Cannot register (legacy) MBean handler for config store with name jmx4perl:type=Config since it already exists. This is the case if another agent has been already started within the same JVM. The registration is skipped.
+2018-12-13 16:50:37,265[DirectJDKLog.java:179][INFO]:jolokia: Jolokia Discovery MBean registration is skipped because there is already one registered.
+2018-12-13 16:50:37,733[DirectJDKLog.java:179][INFO]:Initializing ProtocolHandler ["http-nio-8761"]
+2018-12-13 16:50:37,874[DirectJDKLog.java:179][INFO]:Starting ProtocolHandler ["http-nio-8761"]
+2018-12-13 16:50:37,896[DirectJDKLog.java:179][INFO]:Using a shared selector for servlet write/read
+2018-12-13 16:50:37,994[StartupInfoLogger.java:57][INFO]:Started Application in 15.576 seconds (JVM running for 19.818)
+2018-12-13 16:50:59,679[DirectJDKLog.java:179][INFO]:Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-12-14 10:14:23,147[SpringApplication.java:597][INFO]:The following profiles are active: dev
+2018-12-14 10:14:27,169[DirectJDKLog.java:179][INFO]:Starting service [Tomcat]
+2018-12-14 10:14:27,171[DirectJDKLog.java:179][INFO]:Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-12-14 10:14:27,589[DirectJDKLog.java:179][INFO]:Initializing Spring embedded WebApplicationContext
+2018-12-14 10:14:31,195[WebApplicationImpl.java:815][INFO]:Initiating Jersey application, version 'Jersey: 1.19.1 03/11/2016 02:08 PM'
+2018-12-14 10:14:37,544[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-14 10:14:57,578[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-14 10:14:57,589[DirectJDKLog.java:179][INFO]:jolokia: jolokia:type=Config is already registered. Adding it with jolokia:type=Config,uuid=974d2b1f-981d-4a02-b7f6-0ec35e3b82f4, but you should revise your setup in order to either use a qualifier or ensure, that only a single agent gets registered (otherwise history functionality might not work)
+2018-12-14 10:14:57,592[DirectJDKLog.java:179][INFO]:jolokia: Cannot register (legacy) MBean handler for config store with name jmx4perl:type=Config since it already exists. This is the case if another agent has been already started within the same JVM. The registration is skipped.
+2018-12-14 10:14:57,595[DirectJDKLog.java:179][INFO]:jolokia: Jolokia Discovery MBean registration is skipped because there is already one registered.
+2018-12-14 10:14:57,950[DirectJDKLog.java:179][INFO]:Initializing ProtocolHandler ["http-nio-8761"]
+2018-12-14 10:14:58,030[DirectJDKLog.java:179][INFO]:Starting ProtocolHandler ["http-nio-8761"]
+2018-12-14 10:14:58,062[DirectJDKLog.java:179][INFO]:Using a shared selector for servlet write/read
+2018-12-14 10:14:58,177[StartupInfoLogger.java:57][INFO]:Started Application in 37.355 seconds (JVM running for 46.98)
+2018-12-14 10:15:43,223[DirectJDKLog.java:179][INFO]:Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-12-14 14:25:21,032[SpringApplication.java:597][INFO]:The following profiles are active: dev
+2018-12-14 14:25:27,383[DirectJDKLog.java:179][INFO]:Starting service [Tomcat]
+2018-12-14 14:25:27,384[DirectJDKLog.java:179][INFO]:Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-12-14 14:25:27,679[DirectJDKLog.java:179][INFO]:Initializing Spring embedded WebApplicationContext
+2018-12-14 14:25:30,795[WebApplicationImpl.java:815][INFO]:Initiating Jersey application, version 'Jersey: 1.19.1 03/11/2016 02:08 PM'
+2018-12-14 14:25:38,858[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-14 14:25:51,274[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-14 14:25:51,289[DirectJDKLog.java:179][INFO]:jolokia: jolokia:type=Config is already registered. Adding it with jolokia:type=Config,uuid=3106fc87-c5bf-42a7-9e95-c50696f7f582, but you should revise your setup in order to either use a qualifier or ensure, that only a single agent gets registered (otherwise history functionality might not work)
+2018-12-14 14:25:51,292[DirectJDKLog.java:179][INFO]:jolokia: Cannot register (legacy) MBean handler for config store with name jmx4perl:type=Config since it already exists. This is the case if another agent has been already started within the same JVM. The registration is skipped.
+2018-12-14 14:25:51,295[DirectJDKLog.java:179][INFO]:jolokia: Jolokia Discovery MBean registration is skipped because there is already one registered.
+2018-12-14 14:25:51,680[DirectJDKLog.java:179][INFO]:Initializing ProtocolHandler ["http-nio-8761"]
+2018-12-14 14:25:51,758[DirectJDKLog.java:179][INFO]:Starting ProtocolHandler ["http-nio-8761"]
+2018-12-14 14:25:51,766[DirectJDKLog.java:181][ERROR]:Failed to start end point associated with ProtocolHandler ["http-nio-8761"]
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:433)
+	at sun.nio.ch.Net.bind(Net.java:425)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210)
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:990)
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:635)
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1022)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225)
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.addPreviouslyRemovedConnectors(TomcatEmbeddedServletContainer.java:250)
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.start(TomcatEmbeddedServletContainer.java:193)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.startEmbeddedServletContainer(EmbeddedWebApplicationContext.java:297)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.finishRefresh(EmbeddedWebApplicationContext.java:145)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1118)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1107)
+	at ali.keep.com.Application.main(Application.java:11)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.maven.AbstractRunMojo$LaunchRunner.run(AbstractRunMojo.java:527)
+	at java.lang.Thread.run(Thread.java:745)
+2018-12-14 14:25:51,768[DirectJDKLog.java:181][ERROR]:Failed to start connector [Connector[HTTP/1.1-8761]]
+org.apache.catalina.LifecycleException: Failed to start component [Connector[HTTP/1.1-8761]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225)
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.addPreviouslyRemovedConnectors(TomcatEmbeddedServletContainer.java:250)
+	at org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer.start(TomcatEmbeddedServletContainer.java:193)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.startEmbeddedServletContainer(EmbeddedWebApplicationContext.java:297)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.finishRefresh(EmbeddedWebApplicationContext.java:145)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1118)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1107)
+	at ali.keep.com.Application.main(Application.java:11)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.maven.AbstractRunMojo$LaunchRunner.run(AbstractRunMojo.java:527)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.apache.catalina.LifecycleException: service.getName(): "Tomcat";  Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1029)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 19 common frames omitted
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:433)
+	at sun.nio.ch.Net.bind(Net.java:425)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210)
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:990)
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:635)
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1022)
+	... 20 common frames omitted
+2018-12-14 14:25:51,792[DirectJDKLog.java:179][INFO]:Pausing ProtocolHandler ["http-nio-8761"]
+2018-12-14 14:25:51,792[DirectJDKLog.java:179][INFO]:Stopping service [Tomcat]
+2018-12-14 14:25:52,004[DirectJDKLog.java:179][INFO]:The stop() method was called on component [StandardServer[-1]] after stop() had already been called. The second call will be ignored.
+2018-12-14 14:25:52,010[DirectJDKLog.java:179][INFO]:Stopping ProtocolHandler ["http-nio-8761"]
+2018-12-14 14:25:52,010[DirectJDKLog.java:179][INFO]:Destroying ProtocolHandler ["http-nio-8761"]
+2018-12-14 14:25:52,020[LoggingFailureAnalysisReporter.java:42][ERROR]:
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 8761 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 8761, or configure this application to listen on another port.
+
+2018-12-14 14:26:29,628[SpringApplication.java:597][INFO]:The following profiles are active: dev
+2018-12-14 14:26:37,644[DirectJDKLog.java:179][INFO]:Starting service [Tomcat]
+2018-12-14 14:26:37,646[DirectJDKLog.java:179][INFO]:Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-12-14 14:26:38,387[DirectJDKLog.java:179][INFO]:Initializing Spring embedded WebApplicationContext
+2018-12-14 14:26:41,979[WebApplicationImpl.java:815][INFO]:Initiating Jersey application, version 'Jersey: 1.19.1 03/11/2016 02:08 PM'
+2018-12-14 14:26:48,743[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-14 14:27:02,404[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-14 14:27:02,411[DirectJDKLog.java:179][INFO]:jolokia: jolokia:type=Config is already registered. Adding it with jolokia:type=Config,uuid=3454d56a-8c71-43ab-8c1a-9c7f208f6a5e, but you should revise your setup in order to either use a qualifier or ensure, that only a single agent gets registered (otherwise history functionality might not work)
+2018-12-14 14:27:02,412[DirectJDKLog.java:179][INFO]:jolokia: Cannot register (legacy) MBean handler for config store with name jmx4perl:type=Config since it already exists. This is the case if another agent has been already started within the same JVM. The registration is skipped.
+2018-12-14 14:27:02,413[DirectJDKLog.java:179][INFO]:jolokia: Jolokia Discovery MBean registration is skipped because there is already one registered.
+2018-12-14 14:27:02,675[DirectJDKLog.java:179][INFO]:Initializing ProtocolHandler ["http-nio-8761"]
+2018-12-14 14:27:02,686[DirectJDKLog.java:179][INFO]:Starting ProtocolHandler ["http-nio-8761"]
+2018-12-14 14:27:02,703[DirectJDKLog.java:179][INFO]:Using a shared selector for servlet write/read
+2018-12-14 14:27:02,778[StartupInfoLogger.java:57][INFO]:Started Application in 35.396 seconds (JVM running for 49.87)
+2018-12-14 14:27:24,791[DirectJDKLog.java:179][INFO]:Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-12-14 14:45:23,347[SpringApplication.java:597][INFO]:The following profiles are active: dev
+2018-12-14 14:45:33,438[DirectJDKLog.java:179][INFO]:Starting service [Tomcat]
+2018-12-14 14:45:33,439[DirectJDKLog.java:179][INFO]:Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-12-14 14:45:33,787[DirectJDKLog.java:179][INFO]:Initializing Spring embedded WebApplicationContext
+2018-12-14 14:45:36,492[WebApplicationImpl.java:815][INFO]:Initiating Jersey application, version 'Jersey: 1.19.1 03/11/2016 02:08 PM'
+2018-12-14 14:45:40,723[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-14 14:45:59,568[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-14 14:45:59,666[DirectJDKLog.java:179][INFO]:jolokia: jolokia:type=Config is already registered. Adding it with jolokia:type=Config,uuid=9ad2d585-82a7-4991-8ae0-16c6168ce3b2, but you should revise your setup in order to either use a qualifier or ensure, that only a single agent gets registered (otherwise history functionality might not work)
+2018-12-14 14:45:59,668[DirectJDKLog.java:179][INFO]:jolokia: Cannot register (legacy) MBean handler for config store with name jmx4perl:type=Config since it already exists. This is the case if another agent has been already started within the same JVM. The registration is skipped.
+2018-12-14 14:45:59,668[DirectJDKLog.java:179][INFO]:jolokia: Jolokia Discovery MBean registration is skipped because there is already one registered.
+2018-12-14 14:46:01,076[DirectJDKLog.java:179][INFO]:Initializing ProtocolHandler ["http-nio-8761"]
+2018-12-14 14:46:01,135[DirectJDKLog.java:179][INFO]:Starting ProtocolHandler ["http-nio-8761"]
+2018-12-14 14:46:01,152[DirectJDKLog.java:179][INFO]:Using a shared selector for servlet write/read
+2018-12-14 14:46:01,380[StartupInfoLogger.java:57][INFO]:Started Application in 42.883 seconds (JVM running for 54.837)
+2018-12-14 14:46:05,719[DirectJDKLog.java:179][INFO]:Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-12-14 14:49:23,087[SpringApplication.java:597][INFO]:The following profiles are active: dev
+2018-12-14 14:49:25,212[DirectJDKLog.java:179][INFO]:Starting service [Tomcat]
+2018-12-14 14:49:25,213[DirectJDKLog.java:179][INFO]:Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-12-14 14:49:25,368[DirectJDKLog.java:179][INFO]:Initializing Spring embedded WebApplicationContext
+2018-12-14 14:49:26,974[WebApplicationImpl.java:815][INFO]:Initiating Jersey application, version 'Jersey: 1.19.1 03/11/2016 02:08 PM'
+2018-12-14 14:49:28,881[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-14 14:49:36,781[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-14 14:49:36,789[DirectJDKLog.java:179][INFO]:jolokia: jolokia:type=Config is already registered. Adding it with jolokia:type=Config,uuid=57c58d3f-e243-49ae-aded-25a8b6b2efc0, but you should revise your setup in order to either use a qualifier or ensure, that only a single agent gets registered (otherwise history functionality might not work)
+2018-12-14 14:49:36,790[DirectJDKLog.java:179][INFO]:jolokia: Cannot register (legacy) MBean handler for config store with name jmx4perl:type=Config since it already exists. This is the case if another agent has been already started within the same JVM. The registration is skipped.
+2018-12-14 14:49:36,791[DirectJDKLog.java:179][INFO]:jolokia: Jolokia Discovery MBean registration is skipped because there is already one registered.
+2018-12-14 14:49:37,002[DirectJDKLog.java:179][INFO]:Initializing ProtocolHandler ["http-nio-8761"]
+2018-12-14 14:49:37,034[DirectJDKLog.java:179][INFO]:Starting ProtocolHandler ["http-nio-8761"]
+2018-12-14 14:49:37,045[DirectJDKLog.java:179][INFO]:Using a shared selector for servlet write/read
+2018-12-14 14:49:37,088[StartupInfoLogger.java:57][INFO]:Started Application in 15.762 seconds (JVM running for 22.122)
+2018-12-14 14:49:37,317[DirectJDKLog.java:179][INFO]:Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-12-14 14:50:16,554[SpringApplication.java:597][INFO]:The following profiles are active: dev
+2018-12-14 14:50:26,428[DirectJDKLog.java:179][INFO]:Starting service [Tomcat]
+2018-12-14 14:50:26,430[DirectJDKLog.java:179][INFO]:Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-12-14 14:50:26,792[DirectJDKLog.java:179][INFO]:Initializing Spring embedded WebApplicationContext
+2018-12-14 14:50:30,284[WebApplicationImpl.java:815][INFO]:Initiating Jersey application, version 'Jersey: 1.19.1 03/11/2016 02:08 PM'
+2018-12-14 14:50:34,511[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-14 14:50:49,994[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-14 14:50:49,998[DirectJDKLog.java:179][INFO]:jolokia: jolokia:type=Config is already registered. Adding it with jolokia:type=Config,uuid=2b4a8174-afe4-44e0-b6e8-a34c8bf8c4a9, but you should revise your setup in order to either use a qualifier or ensure, that only a single agent gets registered (otherwise history functionality might not work)
+2018-12-14 14:50:49,999[DirectJDKLog.java:179][INFO]:jolokia: Cannot register (legacy) MBean handler for config store with name jmx4perl:type=Config since it already exists. This is the case if another agent has been already started within the same JVM. The registration is skipped.
+2018-12-14 14:50:50,000[DirectJDKLog.java:179][INFO]:jolokia: Jolokia Discovery MBean registration is skipped because there is already one registered.
+2018-12-14 14:50:50,501[DirectJDKLog.java:179][INFO]:Initializing ProtocolHandler ["http-nio-8761"]
+2018-12-14 14:50:50,514[DirectJDKLog.java:179][INFO]:Starting ProtocolHandler ["http-nio-8761"]
+2018-12-14 14:50:50,702[DirectJDKLog.java:179][INFO]:Using a shared selector for servlet write/read
+2018-12-14 14:50:53,588[StartupInfoLogger.java:57][INFO]:Started Application in 43.276 seconds (JVM running for 54.349)
+2018-12-14 14:51:01,541[DirectJDKLog.java:179][INFO]:Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-12-14 15:34:03,921[SpringApplication.java:597][INFO]:The following profiles are active: dev
+2018-12-14 15:34:08,904[DirectJDKLog.java:179][INFO]:Starting service [Tomcat]
+2018-12-14 15:34:08,906[DirectJDKLog.java:179][INFO]:Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-12-14 15:34:09,479[DirectJDKLog.java:179][INFO]:Initializing Spring embedded WebApplicationContext
+2018-12-14 15:34:13,219[WebApplicationImpl.java:815][INFO]:Initiating Jersey application, version 'Jersey: 1.19.1 03/11/2016 02:08 PM'
+2018-12-14 15:34:17,932[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-14 15:34:30,355[DirectJDKLog.java:179][INFO]:jolokia: No access restrictor found, access to any MBean is allowed
+2018-12-14 15:34:30,359[DirectJDKLog.java:179][INFO]:jolokia: jolokia:type=Config is already registered. Adding it with jolokia:type=Config,uuid=6e54cf38-8d80-4f5a-b515-7843668692ac, but you should revise your setup in order to either use a qualifier or ensure, that only a single agent gets registered (otherwise history functionality might not work)
+2018-12-14 15:34:30,360[DirectJDKLog.java:179][INFO]:jolokia: Cannot register (legacy) MBean handler for config store with name jmx4perl:type=Config since it already exists. This is the case if another agent has been already started within the same JVM. The registration is skipped.
+2018-12-14 15:34:30,360[DirectJDKLog.java:179][INFO]:jolokia: Jolokia Discovery MBean registration is skipped because there is already one registered.
+2018-12-14 15:34:30,495[DirectJDKLog.java:179][INFO]:Initializing ProtocolHandler ["http-nio-8761"]
+2018-12-14 15:34:30,549[DirectJDKLog.java:179][INFO]:Starting ProtocolHandler ["http-nio-8761"]
+2018-12-14 15:34:30,560[DirectJDKLog.java:179][INFO]:Using a shared selector for servlet write/read
+2018-12-14 15:34:30,582[StartupInfoLogger.java:57][INFO]:Started Application in 30.204 seconds (JVM running for 58.261)
+2018-12-14 15:34:31,035[DirectJDKLog.java:179][INFO]:Initializing Spring FrameworkServlet 'dispatcherServlet'

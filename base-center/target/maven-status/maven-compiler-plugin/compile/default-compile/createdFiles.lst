@@ -1,0 +1,14 @@
+ali\keep\com\system\role\RoleAction.class
+ali\keep\com\system\sysuser\ISysUserClient.class
+ali\keep\com\system\dept\DeptAction.class
+ali\keep\com\system\sysuser\SysUserBus.class
+ali\keep\com\common\PrincipalAction.class
+ali\keep\com\system\func\IFuncClient.class
+ali\keep\com\system\role\IRoleClient.class
+ali\keep\com\Application.class
+ali\keep\com\system\func\FuncAction.class
+ali\keep\com\system\role\RoleBus.class
+ali\keep\com\system\func\FuncBus.class
+ali\keep\com\system\dept\DeptBus.class
+ali\keep\com\system\dept\IDeptClient.class
+ali\keep\com\system\sysuser\SysUserAction.class
