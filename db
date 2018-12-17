@@ -1,0 +1,104 @@
+/*
+Navicat MySQL Data Transfer
+
+Source Server         : master
+Source Server Version : 50528
+Source Host           : localhost:3306
+Source Database       : base-data
+
+Target Server Type    : MYSQL
+Target Server Version : 50528
+File Encoding         : 65001
+
+Date: 2018-12-17 10:39:21
+*/
+
+SET FOREIGN_KEY_CHECKS=0;
+
+-- ----------------------------
+-- Table structure for `admin_dept`
+-- ----------------------------
+DROP TABLE IF EXISTS `admin_dept`;
+CREATE TABLE `admin_dept` (
+  `dept_id` int(11) NOT NULL AUTO_INCREMENT COMMENT '主键',
+  `parent_id` int(20) DEFAULT NULL COMMENT '上级ID',
+  `name` varchar(50) DEFAULT NULL COMMENT '部门名称',
+  `enable` tinyint(4) DEFAULT NULL COMMENT '可用标志',
+  `remark` varchar(200) DEFAULT NULL COMMENT '备注',
+  PRIMARY KEY (`dept_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8 ROW_FORMAT=DYNAMIC;
+
+-- ----------------------------
+-- Records of admin_dept
+-- ----------------------------
+INSERT INTO `admin_dept` VALUES ('1', '0', '总部', '1', '初始');
+INSERT INTO `admin_dept` VALUES ('2', '1', '行政部', '1', null);
+INSERT INTO `admin_dept` VALUES ('3', '1', '财务部', '1', null);
+INSERT INTO `admin_dept` VALUES ('4', '1', '宣传部', '1', null);
+
+-- ----------------------------
+-- Table structure for `admin_func`
+-- ----------------------------
+DROP TABLE IF EXISTS `admin_func`;
+CREATE TABLE `admin_func` (
+  `func_id` int(11) NOT NULL AUTO_INCREMENT COMMENT '主键',
+  `type` tinyint(4) DEFAULT NULL COMMENT '类型',
+  `color` varchar(10) DEFAULT NULL COMMENT '颜色',
+  `icon` varchar(100) DEFAULT NULL COMMENT '图标',
+  `name` varchar(50) DEFAULT NULL COMMENT '名称',
+  `parent_id` int(11) DEFAULT NULL COMMENT '父结点ID',
+  `tip` varchar(50) DEFAULT NULL COMMENT '提示信息',
+  `remark` varchar(255) DEFAULT NULL COMMENT '备注',
+  `status` tinyint(4) DEFAULT NULL COMMENT '状态',
+  `url` varchar(100) DEFAULT NULL COMMENT '地址',
+  `order_num` smallint(5) DEFAULT NULL COMMENT '排序编号',
+  PRIMARY KEY (`func_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=utf8 COMMENT='菜单';
+
+-- ----------------------------
+-- Records of admin_func
+-- ----------------------------
+INSERT INTO `admin_func` VALUES ('1', '1', null, null, '系统菜单', '0', null, '初始菜单', null, null, '1');
+INSERT INTO `admin_func` VALUES ('2', '1', null, null, '部门管理', '1', null, null, null, null, '2');
+INSERT INTO `admin_func` VALUES ('3', '1', null, null, '角色管理', '1', null, null, null, null, '3');
+INSERT INTO `admin_func` VALUES ('4', '1', null, null, '人员管理', '1', null, null, null, null, '4');
+INSERT INTO `admin_func` VALUES ('5', '1', null, null, '菜单管理', '1', null, null, null, null, '5');
+
+-- ----------------------------
+-- Table structure for `admin_role`
+-- ----------------------------
+DROP TABLE IF EXISTS `admin_role`;
+CREATE TABLE `admin_role` (
+  `id` int(11) NOT NULL AUTO_INCREMENT COMMENT '主键',
+  `name` varchar(20) DEFAULT NULL COMMENT '名称',
+  `remark` varchar(255) DEFAULT NULL COMMENT '备注',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8 ROW_FORMAT=DYNAMIC;
+
+-- ----------------------------
+-- Records of admin_role
+-- ----------------------------
+INSERT INTO `admin_role` VALUES ('1', '角色1', null);
+
+-- ----------------------------
+-- Table structure for `admin_sys_user`
+-- ----------------------------
+DROP TABLE IF EXISTS `admin_sys_user`;
+CREATE TABLE `admin_sys_user` (
+  `user_id` int(11) NOT NULL AUTO_INCREMENT COMMENT '主键',
+  `name` varchar(50) DEFAULT NULL COMMENT '姓名',
+  `password` varchar(100) DEFAULT NULL COMMENT '会员编号',
+  `phone` varchar(20) DEFAULT NULL COMMENT '手机号',
+  `gender` tinyint(4) DEFAULT NULL COMMENT '性别',
+  `status` tinyint(4) DEFAULT NULL COMMENT '状态',
+  `department_id` int(11) DEFAULT NULL COMMENT '部门ID',
+  `wechat` varchar(50) DEFAULT NULL COMMENT '微信号',
+  `remark` varchar(255) DEFAULT NULL COMMENT '备注',
+  PRIMARY KEY (`user_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=1002 DEFAULT CHARSET=utf8 ROW_FORMAT=DYNAMIC;
+
+-- ----------------------------
+-- Records of admin_sys_user
+-- ----------------------------
+INSERT INTO `admin_sys_user` VALUES ('1', '管理员', '532aeb4481a119e4d9860829cb197bdd', '11111111111', '1', '1', '1', '', '');
+INSERT INTO `admin_sys_user` VALUES ('1001', '管理1', '21218cca77804d2ba1922c33e0151105', '16000000013', '1', '1', '1', '16000000013', null);
